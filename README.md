@@ -52,6 +52,8 @@
 <img src="assets/section-05-connect.svg" width="100%" alt="// 05 CONNECT">
 
 <p align="center">
+  <a href="https://akshat8657.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-akshat8657.github.io-E53935?style=for-the-badge&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRTUzOTM1IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8%2BPHBhdGggZD0iTTMgMTJoMThNMTIgM2MzIDMgMyAxNSAwIDE4TTEyIDNjLTMgMy0zIDE1IDAgMTgiLz48L2c%2BPC9zdmc%2B" alt="Portfolio — akshat8657.github.io"></a>
+  &nbsp;
   <a href="https://github.com/Akshat8657"><img src="https://img.shields.io/badge/GITHUB-Akshat8657-E53935?style=for-the-badge&logo=github&logoColor=E53935&labelColor=0D1117" alt="GitHub — Akshat8657"></a>
   &nbsp;
   <a href="mailto:Akshattiwari865747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-E53935?style=for-the-badge&logo=gmail&logoColor=E53935&labelColor=0D1117" alt="Email — Akshattiwari865747@gmail.com"></a>
