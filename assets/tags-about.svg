@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="44" viewBox="0 0 560 44" role="img" aria-label="BUILD • TEST • SECURE • SHIP">
+<title>BUILD • TEST • SECURE • SHIP</title>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+.t{font-size:13px;font-weight:700;letter-spacing:3px;fill:#F4F4F4}
+</style>
+<rect x="20.5" y="4.5" width="111" height="35" fill="#0D1117" stroke="#E53935" stroke-width="1.5"/>
+<rect x="26" y="10" width="4" height="4" fill="#E53935"/>
+<text x="76.0" y="27" text-anchor="middle" class="mono t">BUILD</text>
+<rect x="141.5" y="19.5" width="5" height="5" fill="#E53935" opacity=".7"/>
+<rect x="156.5" y="4.5" width="111" height="35" fill="#0D1117" stroke="#E53935" stroke-width="1.5"/>
+<rect x="162" y="10" width="4" height="4" fill="#E53935"/>
+<text x="212.0" y="27" text-anchor="middle" class="mono t">TEST</text>
+<rect x="277.5" y="19.5" width="5" height="5" fill="#E53935" opacity=".7"/>
+<rect x="292.5" y="4.5" width="111" height="35" fill="#0D1117" stroke="#E53935" stroke-width="1.5"/>
+<rect x="298" y="10" width="4" height="4" fill="#E53935"/>
+<text x="348.0" y="27" text-anchor="middle" class="mono t">SECURE</text>
+<rect x="413.5" y="19.5" width="5" height="5" fill="#E53935" opacity=".7"/>
+<rect x="428.5" y="4.5" width="111" height="35" fill="#0D1117" stroke="#E53935" stroke-width="1.5"/>
+<rect x="434" y="10" width="4" height="4" fill="#E53935"/>
+<text x="484.0" y="27" text-anchor="middle" class="mono t">SHIP</text>
+</svg>

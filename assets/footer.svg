@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="72" viewBox="0 0 1280 72" role="img" aria-label="LESS GUESSING. MORE BUILDING.">
+<title>LESS GUESSING. MORE BUILDING.</title>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+.motto{font-size:20px;font-weight:700;letter-spacing:6px}
+.a{fill:#B4B9C0}
+.b{fill:#E53935}
+.tiny{font-size:11px;letter-spacing:2px;fill:#5C6168}
+</style>
+<defs>
+<pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#000" opacity=".22"/></pattern>
+<linearGradient id="top" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#E53935" stop-opacity="0"/><stop offset=".5" stop-color="#E53935"/><stop offset="1" stop-color="#E53935" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="72" fill="#0D0D0D"/>
+<rect width="1280" height="72" fill="url(#scan)"/>
+<rect x=".5" y=".5" width="1279" height="71" fill="none" stroke="#222222"/>
+<rect x="0" y="0" width="1280" height="2" fill="url(#top)"/>
+<rect x="820" y="70" width="460" height="2" fill="#E53935"/>
+<rect x="24" y="32" width="8" height="8" fill="#E53935"/><rect x="36" y="32" width="8" height="8" fill="#E53935" opacity=".55"/><rect x="48" y="32" width="8" height="8" fill="#E53935" opacity=".25"/>
+<text x="68" y="40" class="mono tiny">AKSHAT TIWARI</text>
+<text x="640" y="43" text-anchor="middle" class="mono motto"><tspan class="a">LESS GUESSING.</tspan><tspan class="b" dx="14">MORE BUILDING.</tspan></text>
+<text x="1256" y="40" text-anchor="end" class="mono tiny">// END OF FILE</text>
+</svg>
