@@ -56,7 +56,7 @@
   &nbsp;
   <a href="mailto:Akshattiwari865747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-E53935?style=for-the-badge&logo=gmail&logoColor=E53935&labelColor=0D1117" alt="Email — Akshattiwari865747@gmail.com"></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-Connect-E53935?style=for-the-badge&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMy41IiB5PSI5IiB3aWR0aD0iMy40IiBoZWlnaHQ9IjExLjUiIGZpbGw9IiNFNTM5MzUiLz48Y2lyY2xlIGN4PSI1LjIiIGN5PSI1LjQiIHI9IjIiIGZpbGw9IiNFNTM5MzUiLz48cGF0aCBkPSJNOS42IDloMy4ydjEuNmMuNi0xIDEuOS0xLjkgMy42LTEuOSAyLjggMCAzLjkgMS44IDMuOSA0LjV2Ny4zaC0zLjR2LTUuN2MwLTEuNS0uNS0yLjQtMS44LTIuNC0xLjQgMC0yLjIgMS0yLjIgMi41djUuNkg5LjZ6IiBmaWxsPSIjRTUzOTM1Ii8%2BPC9zdmc%2B" alt="LinkedIn — link coming soon"></a>
+  <a href="https://www.linkedin.com/in/akshat-tiwari-146b37296/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-E53935?style=for-the-badge&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMy41IiB5PSI5IiB3aWR0aD0iMy40IiBoZWlnaHQ9IjExLjUiIGZpbGw9IiNFNTM5MzUiLz48Y2lyY2xlIGN4PSI1LjIiIGN5PSI1LjQiIHI9IjIiIGZpbGw9IiNFNTM5MzUiLz48cGF0aCBkPSJNOS42IDloMy4ydjEuNmMuNi0xIDEuOS0xLjkgMy42LTEuOSAyLjggMCAzLjkgMS44IDMuOSA0LjV2Ny4zaC0zLjR2LTUuN2MwLTEuNS0uNS0yLjQtMS44LTIuNC0xLjQgMC0yLjIgMS0yLjIgMi41djUuNkg5LjZ6IiBmaWxsPSIjRTUzOTM1Ii8%2BPC9zdmc%2B" alt="LinkedIn — Akshat Tiwari"></a>
 </p>
 
 <div align="center">
